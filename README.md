@@ -18,7 +18,7 @@
 
 ## 활동
 
-* **FullHouse** Web Final Project (2018.07.16 ~ present)
+* **FullHouse** web project (2018.07.16 ~ present)
 * [Donelist](https://play.google.com/store/apps/details?id=apps.harrislim.donelist) 개인 프로젝트 (2018.6.20 ~ 2018.07.06)
 * [자바알고리즘 스터디](https://www.acmicpc.net/group/3470) (2018.06.04 ~ present)
 * 국비지원 자바웹앱과정 (2018.02.27 ~ present)
