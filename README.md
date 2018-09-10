@@ -17,10 +17,11 @@
 
 ## 활동
 
+* (주)코아뱅크 (2017.09.03 ~ present)
 * [FullHouse](https://youtu.be/CzsfsUuxyh0) web project (2018.07.16 ~ 2018.08.23)
 * [Donelist](https://play.google.com/store/apps/details?id=apps.harrislim.donelist) 개인 프로젝트 (2018.6.20 ~ 2018.07.06)
 * [자바알고리즘 스터디](https://www.acmicpc.net/group/3470) (2018.06.04 ~ 2018.08.05)
-* 국비지원 자바웹앱과정 (2018.02.27 ~ present)
+* 국비지원 자바웹앱과정 (2018.02.27 ~ 2018.08.28)
 * [SNU 해커톤](https://www.youtube.com/watch?v=Ji24WZjmWJg) (2017.11.17 ~ 2017.11.18)
 * [Tik](http://13.59.160.163/process/main) 개인 프로젝트 (2017.09.18 ~ 2017.12.01)
 * ERD 모델링 강의 (2017.08.21)
