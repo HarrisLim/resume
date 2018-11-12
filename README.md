@@ -17,6 +17,7 @@
 
 ## 활동
 
+* (주)코아뱅크 프로젝트 [경남은행 EDI 업그레이드] (2018.11.12 ~ present)
 * (주)코아뱅크 (2017.09.03 ~ present)
 * [FullHouse](https://youtu.be/CzsfsUuxyh0) web project (2018.07.16 ~ 2018.08.23)
 * [Donelist](https://play.google.com/store/apps/details?id=apps.harrislim.donelist) 개인 프로젝트 (2018.6.20 ~ 2018.07.06)
